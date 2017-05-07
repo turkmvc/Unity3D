@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{44C0EE94-EC14-A608-663D-53B945AF5703}") = "GrapplingHook", "Assembly-CSharp-firstpass.csproj", "{E7E4BE01-DE7E-BC6F-34C2-57EDA83A17F0}"
+EndProject
+Project("{44C0EE94-EC14-A608-663D-53B945AF5703}") = "GrapplingHook", "Assembly-CSharp.csproj", "{80800143-54E5-0C7B-9D5C-01A41C3DDE88}"
+EndProject
+Project("{44C0EE94-EC14-A608-663D-53B945AF5703}") = "GrapplingHook", "Assembly-CSharp-Editor-firstpass.csproj", "{6CCC907D-52BC-5DFD-BE0D-06B38A8FEEDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7E4BE01-DE7E-BC6F-34C2-57EDA83A17F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E4BE01-DE7E-BC6F-34C2-57EDA83A17F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E4BE01-DE7E-BC6F-34C2-57EDA83A17F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E4BE01-DE7E-BC6F-34C2-57EDA83A17F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80800143-54E5-0C7B-9D5C-01A41C3DDE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80800143-54E5-0C7B-9D5C-01A41C3DDE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80800143-54E5-0C7B-9D5C-01A41C3DDE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80800143-54E5-0C7B-9D5C-01A41C3DDE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCC907D-52BC-5DFD-BE0D-06B38A8FEEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCC907D-52BC-5DFD-BE0D-06B38A8FEEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCC907D-52BC-5DFD-BE0D-06B38A8FEEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCC907D-52BC-5DFD-BE0D-06B38A8FEEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

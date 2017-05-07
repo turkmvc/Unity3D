@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A1B97EDC-1A72-AB12-52ED-75A4241A657D}") = "Obsidian", "Assembly-CSharp-firstpass.csproj", "{80F178E0-6215-9197-EED9-85C005983F9C}"
+EndProject
+Project("{A1B97EDC-1A72-AB12-52ED-75A4241A657D}") = "Obsidian", "Assembly-CSharp.csproj", "{4ADFE04B-BC76-E3EB-B15F-625A85427154}"
+EndProject
+Project("{A1B97EDC-1A72-AB12-52ED-75A4241A657D}") = "Obsidian", "Assembly-CSharp-Editor-firstpass.csproj", "{65F9A9AF-0D1F-C014-2E31-99BD337F5545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F178E0-6215-9197-EED9-85C005983F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F178E0-6215-9197-EED9-85C005983F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F178E0-6215-9197-EED9-85C005983F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F178E0-6215-9197-EED9-85C005983F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADFE04B-BC76-E3EB-B15F-625A85427154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADFE04B-BC76-E3EB-B15F-625A85427154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADFE04B-BC76-E3EB-B15F-625A85427154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADFE04B-BC76-E3EB-B15F-625A85427154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F9A9AF-0D1F-C014-2E31-99BD337F5545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F9A9AF-0D1F-C014-2E31-99BD337F5545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F9A9AF-0D1F-C014-2E31-99BD337F5545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F9A9AF-0D1F-C014-2E31-99BD337F5545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
